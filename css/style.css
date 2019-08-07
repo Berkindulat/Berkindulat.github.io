@@ -178,6 +178,14 @@ h1 {
             grid-column-start: 1;
             grid-column-end: 5;
         }
+        .header-slider__bg-for-arrow {
+            visibility: hidden;
+            display: none;
+        }
+        .header-slider-arrow {
+            visibility: hidden;
+            display: none;
+        }
     }
 /* iPhone 6,6s,7,8 Plus Size */
 @media (max-width: 414px) {
@@ -222,5 +230,13 @@ h1 {
     .header-slider-cont {
         grid-column-start: 1;
         grid-column-end: 5;
+    }
+    .header-slider__bg-for-arrow {
+        visibility: hidden;
+        display: none;
+    }
+    .header-slider-arrow {
+        visibility: hidden;
+        display: none;
     }
 }
