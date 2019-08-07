@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "UniNeueBold";
+	src: url("../fonts/UniNeueBold/UniNeueBold.eot");
+	src: url("../fonts/UniNeueBold/UniNeueBold.eot?#eofix") format("embedded-opentype"),
+		 url("../fonts/UniNeueBold/UniNeueBold.woff") format("woff"),
+		 url("../fonts/UniNeueBold/UniNeueBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "UniNeueExtraBold";
+	src: url("../fonts/UniNeueExtraBold/UniNeueExtraBold.eot");
+	src: url("../fonts/UniNeueExtraBold/UniNeueExtraBold.eot#eofix") format("embedded-opentype"),
+		 url("../fonts/UniNeueExtraBold/UniNeueExtraBold.woff") format("woff"),
+		 url("../fonts/UniNeueExtraBold/UniNeueExtraBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
